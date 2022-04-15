@@ -1,2 +1,2 @@
-# EnzoGoz.github.io
+# EnzodeGoz.github.io
 My first website :D
